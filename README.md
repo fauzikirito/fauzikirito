@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning **AWS Cloud, CIA Triad**
 
-⚡ Fun fact **I'm a weebs & JRPG Enthusiast**
+⚡ Fun fact **I'm a Weebs & JRPG Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
