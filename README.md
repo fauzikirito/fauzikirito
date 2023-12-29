@@ -4,8 +4,6 @@
 
  🌱 I’m currently learning **AWS Cloud, CIA Triad**
 
- 📫 How to reach me **fauziilyas36363@gmail.com**
-
 ⚡ Fun fact **I'm a weebs & JRPG Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
