@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fauzi Ilyas Nuryadi</h1>
-<h3 align="center">I have a passion about CloudComputing and CyberSecurity</h3>
+<h3 align="center">I have a passion about Networking and CyberSecurity</h3>
 
  🌱 I’m currently learning **SIEM & Wazuh **
 
